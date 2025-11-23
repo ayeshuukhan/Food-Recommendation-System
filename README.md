@@ -13,7 +13,6 @@ You will implement **three major components**:
 
 The system uses a rich food dataset containing **nutritional values, ingredients, cooking methods, and taste profiles** to perform intelligent real-time recommendations.
 
----
 
 ## Features
 
@@ -43,8 +42,6 @@ The system uses a rich food dataset containing **nutritional values, ingredients
 * Retrieves relevant foods from database
 * Generates conversational responses
 
----
-
 ## **Technologies Used**
 
 | Component       | Technology                                 |
@@ -55,7 +52,6 @@ The system uses a rich food dataset containing **nutritional values, ingredients
 | Interface       | **Python CLI**                             |
 | Data Processing | **Pandas, JSON, Metadata Filters**         |
 
----
 
 ## Example Queries
 
@@ -80,8 +76,6 @@ Chatbot:
 
 > “You can try **Greek yogurt with honey**. It has a sweet flavor profile, low calories, and high protein…”
 
----
-
 ## Key Concepts Demonstrated
 
 ### **Similarity Search Techniques**
@@ -103,7 +97,6 @@ Chatbot:
 * Delete or modify records
 * Re-run similarity search instantly
 
----
 
 ## Final-Outcome
 
